@@ -1,9 +1,9 @@
-Meme Editor App 🖼️
+### Meme Editor App 🖼️
 Sebuah aplikasi mobile sederhana yang dibangun menggunakan Flutter untuk membuat dan mengedit meme. Aplikasi ini memungkinkan pengguna untuk memilih template meme populer, menambahkan teks, dan menyimpannya ke galeri atau membagikannya.
 
 Proyek ini dibuat sebagai studi kasus penerapan Clean Architecture dan praktik terbaik pengembangan aplikasi Flutter.
 
-✨ Fitur Utama
+### ✨ Fitur Utama
 Galeri Meme: Menampilkan daftar template meme yang diambil dari API publik (imgflip.com).
 
 Caching Gambar: Gambar yang sudah dimuat akan disimpan di cache untuk performa yang lebih baik dan penggunaan offline.
@@ -26,7 +26,7 @@ Membagikan hasil meme ke aplikasi lain (media sosial, pesan, dll).
 
 UI Modern: Termasuk fitur Pull-to-refresh di halaman utama.
 
-🛠️ Arsitektur & Teknologi
+## 🛠️ Arsitektur & Teknologi
 Aplikasi ini dibangun dengan fokus pada kode yang bersih, teruji, dan mudah dikelola.
 
 Arsitektur: Clean Architecture, dengan pemisahan yang jelas antara lapisan:
@@ -57,7 +57,7 @@ permission_handler (Mengelola Izin)
 
 equatable & uuid
 
-🚀 Instalasi & Menjalankan Proyek
+### 🚀 Instalasi & Menjalankan Proyek
 Berikut adalah cara untuk menjalankan proyek ini di mesin lokal Anda.
 
 Prasyarat
